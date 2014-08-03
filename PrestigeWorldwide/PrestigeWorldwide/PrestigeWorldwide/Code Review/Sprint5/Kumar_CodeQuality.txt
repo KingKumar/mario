@@ -1,0 +1,15 @@
+﻿Author of the code review: Ronit Kumar
+Date: 04/07/2014
+Sprint Number: Sprint 5
+Name of the file: GameOverWithLife.cs
+Author of the file: Dan Keiger
+Number of minutes spent: 30
+
+Code Quality Review
+	-Class is very cohesive in accomplishing its task of providing a UI once Mario dies
+	-Coupling with level is high, Coupling with game is low and almost unnecesary 
+		-Game is passed for the sole purpose of loading content, but this seems to be the best way
+	-Code length under 100 lines, this is good
+
+Hypothetical Change
+	-A lot of magic numbers. Move these to the Static Values folder

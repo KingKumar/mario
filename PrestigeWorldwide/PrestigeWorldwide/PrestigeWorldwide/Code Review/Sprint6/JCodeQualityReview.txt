@@ -1,0 +1,19 @@
+﻿Author of the code review: Javkhlan-Ochir Ganbat
+Date: 04/18/2014
+Sprint Number: Sprint 4
+Name of the file: UILoader.cs
+Author of the file: Dan Kieger
+Number of minutes spent: 20
+
+Code Quality 
+	-Class length is short
+	-No branching, easy to maintain
+	-Little crowded, too many variables
+	-Cohesion is good, all methods are related to UI
+	-Coupling, moderate, calls other class to generate objects
+	 It is required, since only Game1 class can load texture2D and level class knows 
+	 the current place to draw.
+
+Hypothetical Change
+	-We could sub class the texture classes such as item UI, enemy UI, backgroudn UI .. etc
+	

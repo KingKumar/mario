@@ -1,0 +1,15 @@
+﻿Author of the code review: Ronit Kumar
+Date: 04/20/2014
+Sprint Number: Sprint 6
+Name of the file: LevelLoader.cs
+Author of the file: Dan Kieger
+Number of minutes spent: 15
+
+Readability Review
+	-Everything is intuitively named
+	-The loader is easy to understand and adding cases is easy
+	-Much cleaner than previous version
+
+Hypothetical Change
+	-Make coupled with either level or factories, not both
+	

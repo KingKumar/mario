@@ -1,0 +1,18 @@
+﻿Author of the code review: Javkhlan-Ochir Ganbat
+Date: 3/23/2014
+Sprint Number: Sprint 4
+Name of the file: CollisionManager
+Author of the file: Robert Feeney
+Number of minutes spent: 30
+
+Code Quality Review:
+	- Number of line in the code is long 
+	- Coupling is high, it calls methods from everything that has collision
+		and calls respective action for collision, However one centralized 
+		collision manager can be easy to maintian. 
+	- Cohesion is low
+
+Hypothetical change:
+	We could separate the different object's collision into separate classes.
+	Such as putting enemy collision logic in one class and mario's collision in one class
+	and mario's projectiles in another class etc. 

@@ -1,0 +1,17 @@
+﻿Author of the code review: Javkhlan-Ochir Ganbat
+Date: 04/18/2014
+Sprint Number: Sprint 4
+Name of the file: UILoader.cs
+Author of the file: Dan Kieger
+Number of minutes spent: 15
+
+Readability Review
+	-Naming convention is easily understandable
+	-Code is a linear, no branching, good 
+	-Code length is short, however everything is loaded in at the 
+	 same time it makes it a little bit harder to distinguish 
+
+Hypothetical Change
+	-Grouping the lines in the class, like all enemy texture are consequent 
+	followed by a space and all item texture so on.
+	

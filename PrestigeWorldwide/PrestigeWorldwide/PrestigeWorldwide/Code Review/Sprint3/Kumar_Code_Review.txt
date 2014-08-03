@@ -1,0 +1,12 @@
+﻿Author: Ronit Kumar
+3/3/2014
+Sprint 3
+
+File Reviewed: CSVParser.cs
+Author of code: Dan Keiger
+Comments:	This class is highly cohesive as it only focuses on accomplishing one goal- parsing an input
+			CSV and notifying the user what objects are to be placed based on the input file. This class
+			is very robust and can be used repeatedly and reliably. The code is also very easy to understand.
+			No comments are needed as every line of code is inutitive. 
+			This class relies on no other file other than the input CSV. Thus, this class has low coupling. 
+

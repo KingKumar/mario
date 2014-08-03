@@ -1,0 +1,14 @@
+﻿Author: Jamey Stock
+Date: 4/7/2014
+Sprint 5
+Trap.cs (Dan Keiger)
+
+Comments:
+	Coupled to Level, but this is okay since Level connects most classes
+	directly / indirectly. Since only coupled to Mario, this is low coupling. 
+	Also, this class is high cohesion since its sole purpose is to create
+	a frame around Mario for camera scrolling.
+
+Hypothetical change:
+	Perhaps move the location parameter from the constructor and instead have
+	a value that is mutable from other referencing classes.

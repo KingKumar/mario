@@ -1,0 +1,16 @@
+﻿Author of the code review: Robert Feeney
+Date: 04/17/2014
+Sprint Number: Sprint 6
+Name of the file: StartMenu.cs
+Author of the file: Javkhlan-Ochir Ganbat
+Number of minutes spent: 15
+
+Readability Review
+	-Each block of code is easily understandable as to what its purpose is
+	-as more options are added to menu, repetative code is cluttering the file
+	-lack of modular coding is making the file longer than neccesary
+
+Hypothetical Change
+	-Move all keystroke checks to a start menu controller and run through command classes 
+	this will remove clutter from the Start menu file
+	

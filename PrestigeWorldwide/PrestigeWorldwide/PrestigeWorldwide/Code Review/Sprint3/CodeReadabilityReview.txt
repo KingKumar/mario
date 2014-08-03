@@ -1,0 +1,18 @@
+﻿Author: Dan Keiger
+2/16/2014
+Sprint3
+QuestionBlock.cs
+Author: Caleb Zaydak
+10 Minutes Spent Reviewing
+
+Comments: For the most part, very readable code. All variables are thoughtfully named and the class reads
+easily. In the BumpedState method, however, there is a line of code:
+
+                if (currentFrame == bumpedTotalFrames)
+                {
+                    currentFrame = 7;
+                }
+
+Without prior knowledge of the sprite sheet it is slightly  hard to decipher why the current frame is getting
+set to a value of 7. Perhaps a comment above it explaining the purpose of this declaration would be 
+useful.

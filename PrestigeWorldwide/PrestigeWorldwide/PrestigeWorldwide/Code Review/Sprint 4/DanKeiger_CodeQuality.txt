@@ -1,0 +1,10 @@
+﻿Author: Dan Keiger
+Date: 3/23/2014
+Trap.cs
+Robert Feeney
+Comments: Very good improvement from previous code implementations - very readable and 
+has appropriate naming conventions; no magic numbers. Comments are also not overused and
+not redundant.
+Code Improvment: This code cannot lock a position after Mario moves right (mario can still 
+move backward to previous areas of the map) If changes in enemy states were to be based off
+of camera position, this camera/trap system would not be functional.

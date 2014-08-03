@@ -1,0 +1,12 @@
+﻿Author of Review: Caleb Zaydak
+Date of Review: 4/2/2014
+Sprint Number: Sprint5
+File being reviewed: GameStatus.cs
+Author of file being reviewed: J Javkhlan-Oshir
+Time spent on review: 10 minutes
+
+Comments: This file is a very small class so it is initially inherently readable.  A quick glance at the code gives a good idea
+	of its functionality, so it is very readable.  Good names for each field and function.  Also, each level.spriteBatch.DrawString()
+	method is decently clear as to what it is specifically drawing to the screen.
+	However, the level.spriteBatch.DrawString() methods could be refactored to be more clear as to everything that they are
+	specifically doing.  Also, there are some magic numbers that could be made into constants. 

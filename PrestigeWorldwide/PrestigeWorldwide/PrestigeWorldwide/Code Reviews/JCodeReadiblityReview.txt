@@ -1,0 +1,16 @@
+Author of the code review: Javkhlan-Ochir Ganbat
+Date: 2/7/2014
+Sprint Number: Sprint 2
+Name of the file: BanzaiBill.cs
+Author of the file: Dan Keiger
+Number of minutes spent: 
+Comments:
+Readability:
+    -Code is very well written
+    -Very easy to follow the logical flow of the code
+    -Variable names are self explanatory
+Not very well readable:
+    -Overal everything looks good, maybe contains a lot of fields
+     but since it is a sprite class so there is not much thing to avoid 
+     these fields 
+    

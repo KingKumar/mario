@@ -1,0 +1,10 @@
+﻿Author: Ronit Kumar
+Date: 23 March 2014
+Sprint: 4
+Name of file being reviewed: StartMenu.cs
+Author of file being reviewed: Dan Keiger
+Comments:	There is high cohesion in this class. 
+			The class is very short and easy to understand. 
+			It has a singular goal of acting as the start menu and is highly coupled with the game and level class. 
+
+Suggestion: If the Update function is not being called, then it is unnecessary and can be removed.

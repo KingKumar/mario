@@ -1,0 +1,9 @@
+﻿Author: Dan Keiger
+Date: 4/7/2014
+Sprint 5
+Flag.cs
+Ronit Kumar
+Code quality is good, however, you have several magic number with no context as to what they represent. Additionally,
+the flag is implemented as a background object, which ideally should not be associated in the backgroundfactory as it complicates
+the final animation.
+Hypthetical Change: What if the flag is around other background objects? The other objects would overlay and the flag would not be visible

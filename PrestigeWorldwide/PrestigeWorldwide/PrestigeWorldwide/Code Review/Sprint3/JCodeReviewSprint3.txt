@@ -1,0 +1,20 @@
+﻿Author of the code review: Javkhlan-Ochir Ganbat
+Date: 3/3/2014
+Sprint Number: Sprint 3
+Name of the file: Shine.cs
+Author of the file: Ronit Kumar
+Number of minutes spent: 20
+
+Readability: 
+	- Code is easy to read.
+	- Variable names are self explanatory.
+
+Code Quality:
+	- Code length is reasonable
+	- Dependency is low, low coupling
+	- Cyclomatic complexity is 1, there is no branching
+
+Hypothetical change:
+	- Could declare constants for source and destination rectangle,
+	  constructor requires a lot of parameter. Since Shine is a static 
+	  sprite, non moving therefore location can be fixed.  

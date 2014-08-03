@@ -1,0 +1,20 @@
+﻿Author of the code review: Javkhlan-Ochir Ganbat
+Date: 04/07/2014
+Sprint Number: Sprint 5
+Name of the file: SoundManager.cs
+Author of the file: Jamey Stock 
+Number of minutes spent: 40
+
+Code Quality Review
+	-Class has a lot of instance fields, however since it controls
+	 all sounds it is necessary
+	-Also contains all the sound methods that appear in the game
+	-Cyclomatic complexity is 1, there is no branching or conditional
+	-Coupling with other class is high, since all the other object 
+	 that has sound calls its method
+	-Logical and funcitonal cohesion is high, all the sounds methods 
+	 grouped under this class
+
+Hypothetical Change
+	-Maybe creating subclass categorizing sounds into background, mario
+	 sounds, enemy sounds etc.

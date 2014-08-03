@@ -1,0 +1,1676 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>actions.spritefont</Source>
+      <Name>actions</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\actions.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MarioSpriteSheet.png</Source>
+      <Name>MarioSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\MarioSpriteSheet.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallMarioSpriteSheet.png</Source>
+      <Name>SmallMarioSpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\SmallMarioSpriteSheet.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemySpriteSheet.png</Source>
+      <Name>EnemySpriteSheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\EnemySpriteSheet.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Goomba\goomba_death.png</Source>
+      <Name>Enemies\Goomba\goomba_death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Goomba\goomba_death.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Small\SmallRunningMario.png</Source>
+      <Name>Mario\Small\SmallRunningMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Small\SmallRunningMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Dead\DeadMario.png</Source>
+      <Name>Mario\Dead\DeadMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Dead\DeadMario.xnb</Output>
+      <Time>2014-04-02T01:24:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Small\SmallCrouchingMario.png</Source>
+      <Name>Mario\Small\SmallCrouchingMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Small\SmallCrouchingMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Big\BigRunningMario.png</Source>
+      <Name>Mario\Big\BigRunningMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Big\BigRunningMario.xnb</Output>
+      <Time>2014-04-20T16:05:13-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Big\BigCrouchingMario.png</Source>
+      <Name>Mario\Big\BigCrouchingMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Big\BigCrouchingMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Small\SmallIdleMario.png</Source>
+      <Name>Mario\Small\SmallIdleMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Small\SmallIdleMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Big\BigIdleMario.png</Source>
+      <Name>Mario\Big\BigIdleMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Big\BigIdleMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Small\SmallJumpingMario.png</Source>
+      <Name>Mario\Small\SmallJumpingMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Small\SmallJumpingMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Big\BigJumpingMario.png</Source>
+      <Name>Mario\Big\BigJumpingMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Big\BigJumpingMario.xnb</Output>
+      <Time>2014-03-23T21:11:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Ice\IceCrouchingMario.png</Source>
+      <Name>Mario\Ice\IceCrouchingMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Ice\IceCrouchingMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Ice\IceIdleMario.png</Source>
+      <Name>Mario\Ice\IceIdleMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Ice\IceIdleMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Ice\IceJumpingMario.png</Source>
+      <Name>Mario\Ice\IceJumpingMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Ice\IceJumpingMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Ice\IceRunningMario.png</Source>
+      <Name>Mario\Ice\IceRunningMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Ice\IceRunningMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\lvl_one.png</Source>
+      <Name>Backgrounds\lvl_one</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\lvl_one.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Thwomp\Thwomp.png</Source>
+      <Name>Enemies\Thwomp\Thwomp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Thwomp\Thwomp.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Cannon\Banzai Cannon.png</Source>
+      <Name>Enemies\Cannon\Banzai Cannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Cannon\Banzai Cannon.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\bigBush.png</Source>
+      <Name>Backgrounds\bigBush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\bigBush.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Fire\FireIdleMario.png</Source>
+      <Name>Mario\Fire\FireIdleMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Fire\FireIdleMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Fire\FireJumpingMario.png</Source>
+      <Name>Mario\Fire\FireJumpingMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Fire\FireJumpingMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Fire\FireRunningMario.png</Source>
+      <Name>Mario\Fire\FireRunningMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Fire\FireRunningMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Bullet Bill\banzai-bill_right.png</Source>
+      <Name>Enemies\Bullet Bill\banzai-bill_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Bullet Bill\banzai-bill_right.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\cloud.png</Source>
+      <Name>Backgrounds\cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\cloud.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\smallBush.png</Source>
+      <Name>Backgrounds\smallBush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\smallBush.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\DryBones\drybones_injured left.png</Source>
+      <Name>Enemies\DryBones\drybones_injured left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\DryBones\drybones_injured left.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\DryBones\drybones_injured right.png</Source>
+      <Name>Enemies\DryBones\drybones_injured right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\DryBones\drybones_injured right.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\DryBones\drybones_movement_left.png</Source>
+      <Name>Enemies\DryBones\drybones_movement_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\DryBones\drybones_movement_left.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\DryBones\drybones_movement_right.png</Source>
+      <Name>Enemies\DryBones\drybones_movement_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\DryBones\drybones_movement_right.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\BrickBlockIdle.png</Source>
+      <Name>Blocks\BrickBlockIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\BrickBlockIdle.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\QuestionBlockBumped.png</Source>
+      <Name>Blocks\QuestionBlockBumped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\QuestionBlockBumped.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\QuestionBlockIdle.png</Source>
+      <Name>Blocks\QuestionBlockIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\QuestionBlockIdle.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\UsedBlockIdle.png</Source>
+      <Name>Blocks\UsedBlockIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\UsedBlockIdle.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\hill.png</Source>
+      <Name>Backgrounds\hill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\hill.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\bush.png</Source>
+      <Name>Backgrounds\bush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\bush.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\shine.png</Source>
+      <Name>Backgrounds\shine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\shine.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Fire\FireCrouchingMario.png</Source>
+      <Name>Mario\Fire\FireCrouchingMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Fire\FireCrouchingMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Star\StarCrouchingMario.png</Source>
+      <Name>Mario\Star\StarCrouchingMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Star\StarCrouchingMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Star\StarIdleMario.png</Source>
+      <Name>Mario\Star\StarIdleMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Star\StarIdleMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Star\StarJumpingMario.png</Source>
+      <Name>Mario\Star\StarJumpingMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Star\StarJumpingMario.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Star\StarRunningMario.png</Source>
+      <Name>Mario\Star\StarRunningMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Star\StarRunningMario.xnb</Output>
+      <Time>2014-03-23T21:11:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Bullet Bill\banzai-bill_left.png</Source>
+      <Name>Enemies\Bullet Bill\banzai-bill_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Bullet Bill\banzai-bill_left.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ConsumableItems\RedMushroomIdle.png</Source>
+      <Name>ConsumableItems\RedMushroomIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\ConsumableItems\RedMushroomIdle.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ConsumableItems\GreenMushroomIdle.png</Source>
+      <Name>ConsumableItems\GreenMushroomIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\ConsumableItems\GreenMushroomIdle.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\GreenPipe.png</Source>
+      <Name>Blocks\GreenPipe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\GreenPipe.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ConsumableItems\StarIdle.png</Source>
+      <Name>ConsumableItems\StarIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\ConsumableItems\StarIdle.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ConsumableItems\CoinIdle.png</Source>
+      <Name>ConsumableItems\CoinIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\ConsumableItems\CoinIdle.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ConsumableItems\FireFlowerIdle.png</Source>
+      <Name>ConsumableItems\FireFlowerIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\ConsumableItems\FireFlowerIdle.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Koopa\koop_walking.png</Source>
+      <Name>Enemies\Koopa\koop_walking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Koopa\koop_walking.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Koopa\Koopa_Into_Shell.png</Source>
+      <Name>Enemies\Koopa\Koopa_Into_Shell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Koopa\Koopa_Into_Shell.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Koopa\Koopa_Outof_Shell.png</Source>
+      <Name>Enemies\Koopa\Koopa_Outof_Shell</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Koopa\Koopa_Outof_Shell.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Koopa\Shell_Spin.png</Source>
+      <Name>Enemies\Koopa\Shell_Spin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Koopa\Shell_Spin.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Goomba\goomba_walk.png</Source>
+      <Name>Enemies\Goomba\goomba_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Goomba\goomba_walk.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Lakitu\lakitu_movement.png</Source>
+      <Name>Enemies\Lakitu\lakitu_movement</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Lakitu\lakitu_movement.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Spiny\spiny_getting_up.png</Source>
+      <Name>Enemies\Spiny\spiny_getting_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Spiny\spiny_getting_up.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Spiny\spiny_getting_up_left.png</Source>
+      <Name>Enemies\Spiny\spiny_getting_up_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Spiny\spiny_getting_up_left.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Spiny\spiny_getting_up_right.png</Source>
+      <Name>Enemies\Spiny\spiny_getting_up_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Spiny\spiny_getting_up_right.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Spiny\spiny_thrown.png</Source>
+      <Name>Enemies\Spiny\spiny_thrown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Spiny\spiny_thrown.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Spiny\spiny_thrown_left.png</Source>
+      <Name>Enemies\Spiny\spiny_thrown_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Spiny\spiny_thrown_left.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Spiny\spiny_thrown_right.png</Source>
+      <Name>Enemies\Spiny\spiny_thrown_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Spiny\spiny_thrown_right.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Spiny\spiny_walking.png</Source>
+      <Name>Enemies\Spiny\spiny_walking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Spiny\spiny_walking.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Spiny\spiny_walking_left.png</Source>
+      <Name>Enemies\Spiny\spiny_walking_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Spiny\spiny_walking_left.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Spiny\spiny_walking_right.png</Source>
+      <Name>Enemies\Spiny\spiny_walking_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Spiny\spiny_walking_right.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Lakitu\lakitu_throwing.png</Source>
+      <Name>Enemies\Lakitu\lakitu_throwing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Enemies\Lakitu\lakitu_throwing.xnb</Output>
+      <Time>2014-03-23T21:11:31-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Fire\Fireball.png</Source>
+      <Name>Mario\Fire\Fireball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Fire\Fireball.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Fire\FireballExplosion.png</Source>
+      <Name>Mario\Fire\FireballExplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Fire\FireballExplosion.xnb</Output>
+      <Time>2014-04-02T19:34:41-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Ice\Iceball.png</Source>
+      <Name>Mario\Ice\Iceball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Ice\Iceball.xnb</Output>
+      <Time>2014-03-23T21:11:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario\Ice\IceballExplosion.png</Source>
+      <Name>Mario\Ice\IceballExplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Mario\Ice\IceballExplosion.xnb</Output>
+      <Time>2014-04-02T17:35:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\DarkRoom.png</Source>
+      <Name>Backgrounds\DarkRoom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\DarkRoom.xnb</Output>
+      <Time>2014-04-02T01:25:23-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\DarkRoomExit.png</Source>
+      <Name>Blocks\DarkRoomExit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\DarkRoomExit.xnb</Output>
+      <Time>2014-04-02T01:26:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\FloorBlock.png</Source>
+      <Name>Blocks\FloorBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\FloorBlock.xnb</Output>
+      <Time>2014-04-02T01:26:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\DarkBrickBlockIdle.png</Source>
+      <Name>Blocks\DarkBrickBlockIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\DarkBrickBlockIdle.xnb</Output>
+      <Time>2014-04-02T01:26:23-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\DarkBrickBlockBumped.png</Source>
+      <Name>Blocks\DarkBrickBlockBumped</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\DarkBrickBlockBumped.xnb</Output>
+      <Time>2014-04-02T02:02:51-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\DarkFloorBlock.png</Source>
+      <Name>Blocks\DarkFloorBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\DarkFloorBlock.xnb</Output>
+      <Time>2014-04-02T02:17:35-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\WarpPipe.wav</Source>
+      <Name>Sounds\WarpPipe</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\WarpPipe.xnb</Output>
+      <Time>2014-04-02T17:35:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\BreakBlock.wav</Source>
+      <Name>Sounds\BreakBlock</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\BreakBlock.xnb</Output>
+      <Time>2014-04-02T17:35:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\CollectCoin.wav</Source>
+      <Name>Sounds\CollectCoin</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\CollectCoin.xnb</Output>
+      <Time>2014-04-02T17:35:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\HitFlagpole.wav</Source>
+      <Name>Sounds\HitFlagpole</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\HitFlagpole.xnb</Output>
+      <Time>2014-04-02T17:35:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MarioDeath.wav</Source>
+      <Name>Sounds\MarioDeath</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\MarioDeath.xnb</Output>
+      <Time>2014-04-02T17:35:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\StageClear.wav</Source>
+      <Name>Sounds\StageClear</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\StageClear.xnb</Output>
+      <Time>2014-04-02T17:35:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GameOver.mp3</Source>
+      <Name>Sounds\GameOver</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\GameOver.xnb</Output>
+      <Time>2014-04-02T17:35:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MainTheme.mp3</Source>
+      <Name>Sounds\MainTheme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\MainTheme.xnb</Output>
+      <Time>2014-04-02T17:35:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MarioJump.wav</Source>
+      <Name>Sounds\MarioJump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\MarioJump.xnb</Output>
+      <Time>2014-04-16T17:54:23-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\Blocklet.png</Source>
+      <Name>Blocks\Blocklet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\Blocklet.xnb</Output>
+      <Time>2014-04-02T18:32:04-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\PyramidBlock.png</Source>
+      <Name>Blocks\PyramidBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\PyramidBlock.xnb</Output>
+      <Time>2014-04-02T19:09:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\castle.png</Source>
+      <Name>Backgrounds\castle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\castle.xnb</Output>
+      <Time>2014-04-02T19:18:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\flagpole.png</Source>
+      <Name>Backgrounds\flagpole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\flagpole.xnb</Output>
+      <Time>2014-04-02T19:37:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\flag.png</Source>
+      <Name>Backgrounds\flag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\flag.xnb</Output>
+      <Time>2014-04-02T19:18:57-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Title.png</Source>
+      <Name>Backgrounds\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\Title.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\Title2.jpg</Source>
+      <Name>Backgrounds\Title2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Backgrounds\Title2.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture.png</Source>
+      <Name>Texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Texture.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture2.png</Source>
+      <Name>Texture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Texture2.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture3.png</Source>
+      <Name>Texture3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Texture3.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition0.png</Source>
+      <Name>Transition\newTransition0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition0.xnb</Output>
+      <Time>2014-04-16T17:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition1.png</Source>
+      <Name>Transition\newTransition1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition1.xnb</Output>
+      <Time>2014-04-16T17:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition10.png</Source>
+      <Name>Transition\newTransition10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition10.xnb</Output>
+      <Time>2014-04-16T17:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition11.png</Source>
+      <Name>Transition\newTransition11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition11.xnb</Output>
+      <Time>2014-04-16T17:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition12.png</Source>
+      <Name>Transition\newTransition12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition12.xnb</Output>
+      <Time>2014-04-16T17:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition13.png</Source>
+      <Name>Transition\newTransition13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition13.xnb</Output>
+      <Time>2014-04-16T17:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition14.png</Source>
+      <Name>Transition\newTransition14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition14.xnb</Output>
+      <Time>2014-04-16T17:54:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition15.png</Source>
+      <Name>Transition\newTransition15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition15.xnb</Output>
+      <Time>2014-04-16T17:54:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition16.png</Source>
+      <Name>Transition\newTransition16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition16.xnb</Output>
+      <Time>2014-04-16T17:54:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition17.png</Source>
+      <Name>Transition\newTransition17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition17.xnb</Output>
+      <Time>2014-04-16T17:54:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition2.png</Source>
+      <Name>Transition\newTransition2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition2.xnb</Output>
+      <Time>2014-04-16T17:54:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition3.png</Source>
+      <Name>Transition\newTransition3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition3.xnb</Output>
+      <Time>2014-04-16T17:54:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition4.png</Source>
+      <Name>Transition\newTransition4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition4.xnb</Output>
+      <Time>2014-04-16T17:54:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition5.png</Source>
+      <Name>Transition\newTransition5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition5.xnb</Output>
+      <Time>2014-04-16T17:54:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition6.png</Source>
+      <Name>Transition\newTransition6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition6.xnb</Output>
+      <Time>2014-04-16T17:54:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition7.png</Source>
+      <Name>Transition\newTransition7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition7.xnb</Output>
+      <Time>2014-04-16T17:54:25-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition8.png</Source>
+      <Name>Transition\newTransition8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition8.xnb</Output>
+      <Time>2014-04-16T17:54:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Transition\newTransition9.png</Source>
+      <Name>Transition\newTransition9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Transition\newTransition9.xnb</Output>
+      <Time>2014-04-16T17:54:26-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Menu.wav</Source>
+      <Name>Sounds\Menu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\Menu.xnb</Output>
+      <Time>2014-04-16T17:54:37-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MainTheme2.wav</Source>
+      <Name>Sounds\MainTheme2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\MainTheme2.xnb</Output>
+      <Time>2014-04-16T17:54:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\UnderGround.wav</Source>
+      <Name>Sounds\UnderGround</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\UnderGround.xnb</Output>
+      <Time>2014-04-16T17:54:41-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GameOver2.wav</Source>
+      <Name>Sounds\GameOver2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\GameOver2.xnb</Output>
+      <Time>2014-04-16T17:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MarioDeath2.wav</Source>
+      <Name>Sounds\MarioDeath2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\MarioDeath2.xnb</Output>
+      <Time>2014-04-16T17:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Powerup.wav</Source>
+      <Name>Sounds\Powerup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\Powerup.xnb</Output>
+      <Time>2014-04-16T17:54:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PowerupAppears.wav</Source>
+      <Name>Sounds\PowerupAppears</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\PowerupAppears.xnb</Output>
+      <Time>2014-04-16T17:54:23-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\OneUp.wav</Source>
+      <Name>Sounds\OneUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\OneUp.xnb</Output>
+      <Time>2014-04-16T17:54:23-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Fireball.wav</Source>
+      <Name>Sounds\Fireball</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\Fireball.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Pause.wav</Source>
+      <Name>Sounds\Pause</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\Pause.xnb</Output>
+      <Time>2014-04-16T17:54:23-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Hit.wav</Source>
+      <Name>Sounds\Hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\Hit.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\StageClear2.wav</Source>
+      <Name>Sounds\StageClear2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\StageClear2.xnb</Output>
+      <Time>2014-04-16T17:54:29-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PowerDown.wav</Source>
+      <Name>Sounds\PowerDown</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\PowerDown.xnb</Output>
+      <Time>2014-04-16T17:54:23-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\kick0.wav</Source>
+      <Name>Sounds\kick0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\kick0.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\kick1.wav</Source>
+      <Name>Sounds\kick1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\kick1.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\kick2.wav</Source>
+      <Name>Sounds\kick2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\kick2.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\kick3.wav</Source>
+      <Name>Sounds\kick3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\kick3.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\kick4.wav</Source>
+      <Name>Sounds\kick4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\kick4.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\kick5.wav</Source>
+      <Name>Sounds\kick5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\kick5.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\kick6.wav</Source>
+      <Name>Sounds\kick6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\kick6.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\kick7.wav</Source>
+      <Name>Sounds\kick7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\kick7.xnb</Output>
+      <Time>2014-04-16T17:54:23-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MenuSelect.wav</Source>
+      <Name>Sounds\MenuSelect</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\MenuSelect.xnb</Output>
+      <Time>2014-04-16T17:54:23-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\CollectCoin2.wav</Source>
+      <Name>Sounds\CollectCoin2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\CollectCoin2.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MarioJump2.wav</Source>
+      <Name>Sounds\MarioJump2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\MarioJump2.xnb</Output>
+      <Time>2014-04-16T17:54:23-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\LevelCreator.wav</Source>
+      <Name>Sounds\LevelCreator</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Sounds\LevelCreator.xnb</Output>
+      <Time>2014-04-16T17:54:47-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\CastleFloorBlock.png</Source>
+      <Name>Blocks\CastleFloorBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\CastleFloorBlock.xnb</Output>
+      <Time>2014-04-16T21:59:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\CastleBrickBlockIdle.png</Source>
+      <Name>Blocks\CastleBrickBlockIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\CastleBrickBlockIdle.xnb</Output>
+      <Time>2014-04-16T22:00:05-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\CastleBlocklet.png</Source>
+      <Name>Blocks\CastleBlocklet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\CastleBlocklet.xnb</Output>
+      <Time>2014-04-16T22:37:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\CastleTallPipe.png</Source>
+      <Name>Blocks\CastleTallPipe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\CastleTallPipe.xnb</Output>
+      <Time>2014-04-16T23:32:00-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\CastlePortalOne.png</Source>
+      <Name>Blocks\CastlePortalOne</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\CastlePortalOne.xnb</Output>
+      <Time>2014-04-16T23:32:03-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\CastlePipe.png</Source>
+      <Name>Blocks\CastlePipe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\CastlePipe.xnb</Output>
+      <Time>2014-04-16T23:32:11-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\Lava.png</Source>
+      <Name>Blocks\Lava</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\Lava.xnb</Output>
+      <Time>2014-04-16T23:32:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\Background.png</Source>
+      <Name>LevelCreatorSprites\Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\Background.xnb</Output>
+      <Time>2014-04-20T16:20:55-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\Banzai Cannon.png</Source>
+      <Name>LevelCreatorSprites\Banzai Cannon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\Banzai Cannon.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\bigBush.png</Source>
+      <Name>LevelCreatorSprites\bigBush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\bigBush.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\BrickBlockIdle.png</Source>
+      <Name>LevelCreatorSprites\BrickBlockIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\BrickBlockIdle.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\bush.png</Source>
+      <Name>LevelCreatorSprites\bush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\bush.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\castle.png</Source>
+      <Name>LevelCreatorSprites\castle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\castle.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\cloud.png</Source>
+      <Name>LevelCreatorSprites\cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\cloud.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\CoinIdle.png</Source>
+      <Name>LevelCreatorSprites\CoinIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\CoinIdle.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\Cursor.PNG</Source>
+      <Name>LevelCreatorSprites\Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\Cursor.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\DarkBrickBlockIdle.png</Source>
+      <Name>LevelCreatorSprites\DarkBrickBlockIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\DarkBrickBlockIdle.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\DarkFloorBlock.png</Source>
+      <Name>LevelCreatorSprites\DarkFloorBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\DarkFloorBlock.xnb</Output>
+      <Time>2014-04-16T17:54:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\drybones_movement_left.png</Source>
+      <Name>LevelCreatorSprites\drybones_movement_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\drybones_movement_left.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\FireFlowerIdle.png</Source>
+      <Name>LevelCreatorSprites\FireFlowerIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\FireFlowerIdle.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\flag.png</Source>
+      <Name>LevelCreatorSprites\flag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\flag.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\flagpole.png</Source>
+      <Name>LevelCreatorSprites\flagpole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\flagpole.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\FloorBlock.png</Source>
+      <Name>LevelCreatorSprites\FloorBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\FloorBlock.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\goomba_walk.png</Source>
+      <Name>LevelCreatorSprites\goomba_walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\goomba_walk.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\GreenMushroomIdle.png</Source>
+      <Name>LevelCreatorSprites\GreenMushroomIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\GreenMushroomIdle.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\GreenPipe.png</Source>
+      <Name>LevelCreatorSprites\GreenPipe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\GreenPipe.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\hill.png</Source>
+      <Name>LevelCreatorSprites\hill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\hill.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\Koopa.png</Source>
+      <Name>LevelCreatorSprites\Koopa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\Koopa.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\lakitu_movement.png</Source>
+      <Name>LevelCreatorSprites\lakitu_movement</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\lakitu_movement.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\Mario.png</Source>
+      <Name>LevelCreatorSprites\Mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\Mario.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\PyramidBlock.png</Source>
+      <Name>LevelCreatorSprites\PyramidBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\PyramidBlock.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\QuestionBlock.png</Source>
+      <Name>LevelCreatorSprites\QuestionBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\QuestionBlock.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\RedMushroomIdle.png</Source>
+      <Name>LevelCreatorSprites\RedMushroomIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\RedMushroomIdle.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\shine.png</Source>
+      <Name>LevelCreatorSprites\shine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\shine.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\smallBush.png</Source>
+      <Name>LevelCreatorSprites\smallBush</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\smallBush.xnb</Output>
+      <Time>2014-04-16T17:54:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\spiny_walking.png</Source>
+      <Name>LevelCreatorSprites\spiny_walking</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\spiny_walking.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\StarIdle.png</Source>
+      <Name>LevelCreatorSprites\StarIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\StarIdle.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>LevelCreatorSprites\Thwomp.png</Source>
+      <Name>LevelCreatorSprites\Thwomp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\LevelCreatorSprites\Thwomp.xnb</Output>
+      <Time>2014-04-20T18:04:33-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ConsumableItems\IceFlowerIdle.png</Source>
+      <Name>ConsumableItems\IceFlowerIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\ConsumableItems\IceFlowerIdle.xnb</Output>
+      <Time>2014-04-20T18:04:21-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\FireRope.png</Source>
+      <Name>Blocks\FireRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\FireRope.xnb</Output>
+      <Time>2014-04-20T22:17:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\CastleBridge.png</Source>
+      <Name>Blocks\CastleBridge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\CastleBridge.xnb</Output>
+      <Time>2014-04-20T22:30:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Blocks\CastleLever.png</Source>
+      <Name>Blocks\CastleLever</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\Blocks\CastleLever.xnb</Output>
+      <Time>2014-04-20T22:30:30-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D7E2E078-7294-4B68-9B99-5343EDED63A6}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwideContent\</RootDirectory>
+      <LoggerRootDirectory>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\</LoggerRootDirectory>
+      <IntermediateDirectory>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>\\vmware-host\Shared Folders\Desktop\PrestigeWorldwidewidewide\PrestigeWorldwide\PrestigeWorldwide\PrestigeWorldwide\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T20:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-11T18:27:19.5959151-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

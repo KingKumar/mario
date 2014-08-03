@@ -1,0 +1,20 @@
+﻿Author of the code review: Javkhlan-Ochir Ganbat
+Date: 2/7/2014
+Sprint Number: Sprint 2
+Name of the file: CSVParser.cs
+Author of the file: Dan Keiger
+Number of minutes spent: 
+
+Readability:
+	-Code is well written
+	-Easily readable
+	-Variable names are self explanatory
+
+Code Quality:
+	Number of line in the code is short and straightforward
+	Low coupling
+	Dependency is low, doesn't inherit any class or interface
+	Doesn't require any Game object 
+
+Hypotethical change:
+	No suggested change so far

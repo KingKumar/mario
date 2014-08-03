@@ -1,0 +1,24 @@
+Author of the code review: Jamey Stock
+Date: 2/8/2014
+Sprint Number: Sprint 2
+Name of the file: HighLeftMovingCloud.cs
+Author of the file: Ronit Kumar
+Code Quality:
+
+This class is kept simple, and contains only the necessary information, 
+such as animation frames and horizontal position. There is low coupling,
+since this class only depends upon classes defined in the XNA framework.
+In addition, there is high cohesion, since the class encapsulates all
+logic for maintaining a moving cloud in the background.
+
+The constructor for this class only contains three parameters, so it can be
+used from many other classes with the proper information. In addition, these
+parameters enable multiple types of clouds to be constructed with this class,
+since the parameters are not tied to a specific spritesheet format.
+
+Hypothetical change:
+
+I am not currently familiar with how the background interface is going to
+properly render background elements. However, unless IBackground is necessary
+for all background elements, interfaces or abstract classes could be created
+to render groups of background items (ICloud, IBush, etc). 

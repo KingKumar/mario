@@ -1,0 +1,17 @@
+﻿Author of the code review: Ronit Kumar
+Date: 04/20/2014
+Sprint Number: Sprint 6
+Name of the file: LevelLoader.cs
+Author of the file: Dan Kieger
+Number of minutes spent: 20
+
+Code Quality 
+	-Class length is short
+	-No branching, easy to maintain
+	-Little crowded, too many variables
+	-Cohesion is good, all methods are related to creation of objects
+	-Coupling, moderate, calls level and factories to generate objects
+
+Hypothetical Change
+	-Have just factories or just level being depended on
+	

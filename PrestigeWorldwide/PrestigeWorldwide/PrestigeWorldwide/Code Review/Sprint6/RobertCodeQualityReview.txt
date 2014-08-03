@@ -1,0 +1,17 @@
+﻿Author of the code review: Robert Feeney
+Date: 04/20/2014
+Sprint Number: Sprint 6
+Name of the file: StartMenu.cs
+Author of the file: Javkhlan-Ochir Ganbat
+Number of minutes spent: 20
+
+Code Quality 
+	-Class length a little long
+	-No branching, easy to maintain
+	-crowded, repetative code
+	-Start menu cohesion is strong
+	-High coupling with level class(no avise at this time on how to lower this)
+
+Hypothetical Change
+	-Instead of redecorating the start menu, seperate the Game over menu into an independant class altogether
+	-this will remove some clutter crom StartMenu.cs, improve cohesion, and reduce coupling with level.cs

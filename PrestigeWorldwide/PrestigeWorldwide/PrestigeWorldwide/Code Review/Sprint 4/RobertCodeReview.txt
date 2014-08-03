@@ -1,0 +1,9 @@
+﻿Author: Robert Feeney
+Date: 20 March 2014
+Sprint: 4
+Name of file being reviewed: Level.cs
+Author of file being reviewed: Ronit Kumar
+Comments: Cohesion is high for level.cs.  All of the overhead instantation, updating and drawing for a level run through this class.  Coupling is very high for this class.  Nearly every other class will call to level.cs at one point or another.
+Most of this coupling can be justified, as level is a container class, but it code could be moved around to reduce at least some of the coupling.  Commenting could be reduced.  ANy need for a comment could be handeled as a method instead.
+
+Suggestion: perhaps create a subclass that handles passing values between enemies,items and mario

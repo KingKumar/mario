@@ -1,0 +1,13 @@
+﻿Author: Dan Keiger
+Date: 2/7/2014
+Sprint2
+Name:Mario.cs
+Author: Jamey Stock
+
+Comments: All in all, a very readable and efficient class. The only thing to consider
+is changing 'isMovingRight' from an integer to a boolean value since it only has two
+possible states. 
+
+Hypothetical Change: Right now, Mario can only be supported as a large mario state. If
+the game was to follow exactly as world 1-1 does, small mario state would not be possible
+under this implementation.

@@ -1,0 +1,11 @@
+﻿Author of review: Jamey Stock
+Date of Review: 4/2/2014
+Sprint: 5
+File being reviewed: PauseMenu.cs
+Author of file: Dan Keiger
+
+Comments:
+	This class looks clean, and it is easy to see what is going on. In addition,
+	the code has a very specific purpose that others are able to understand.
+	However, there are some hard-coded coordinates that could be made into variables
+	or perhaps provided by some other class. Overall, concise and easy to understand.

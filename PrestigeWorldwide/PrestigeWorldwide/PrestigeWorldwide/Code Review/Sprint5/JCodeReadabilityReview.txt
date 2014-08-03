@@ -1,0 +1,17 @@
+﻿Author of the code review: Javkhlan-Ochir Ganbat
+Date: 04/02/2014
+Sprint Number: Sprint 4
+Name of the file: SoundManager.cs
+Author of the file: Jamey Stock 
+Number of minutes spent: 30
+
+Readability:
+	-Length of the class is short under 100 lines
+	-Easily readable
+	-Variable names are self explanatory
+	-Low logic, making it easy to follow
+	-Sounds sits on top of level, inside game
+	-Preloading every sounds, easy to call anytime 
+
+Hypothetical Change
+	-No suggested change yet

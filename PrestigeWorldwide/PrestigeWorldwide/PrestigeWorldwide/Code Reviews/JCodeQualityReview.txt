@@ -1,0 +1,28 @@
+Author of the code review: Javkhlan-Ochir
+Date: 2/7/2014
+Sprint Number: Sprint 2
+Name of the file: BanzaiBill.cs
+Author of the file: Dan Keiger
+Code Quality:
+
+Number of Lines per method is reasonably well under readable length.
+Coupling with other classes in the game is low. There is no method or class
+that modifies the internal field of this class. 
+Dependency is moderate:
+    -Depend on the Textures when first initiated
+    -Depend on other texture information from the constructor parameter
+Cyclomatic complexity
+Complexity for method Update() M = 4(Edges) - 4(NOdes) + 2(exit nodes) = 2
+Update method contains only one switch statement where it has 2 states
+Overall quality is good and easy to understand
+
+Hypothetical change:
+Since it is a static(not meant in programming way, more like just a sprite
+and not much function involved with it) 
+sprite class we can load the content inside the constructor 
+rather than getting it from parameter. However to do this we have to give Game1 game
+as a parameter. This modification will make things a bit cleaner in the game
+code. 
+Since it is a static sprite in the future there will not be much of change
+with it and even if it changes flexibility is good, since there is low
+coupling with other class

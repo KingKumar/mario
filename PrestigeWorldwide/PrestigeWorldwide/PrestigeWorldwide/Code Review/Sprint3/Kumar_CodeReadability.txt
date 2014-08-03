@@ -1,0 +1,14 @@
+﻿Author: Ronit Kumar
+2/16/2014
+Sprint 3
+
+File Reviewed: CSVParser.cs
+Author of code: Dan Keiger
+Comments:	Good implementation. Easy to read, understand, and predict. 
+			Game objects to be placed must be scaled to match pixelFactor. 
+
+File Reviewed: LevelOne.cs
+Author of code: Ronit Kumar
+Comments:	At the moment this class handles the drawing of the floor. 
+			Reconsider implementation of how floor is drawen/ interacts with other game 
+			objects in terms of collision.  

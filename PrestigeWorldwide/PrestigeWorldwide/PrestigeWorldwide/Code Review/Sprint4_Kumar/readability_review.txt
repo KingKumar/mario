@@ -1,0 +1,14 @@
+﻿Author of the code review: Ronit Kumar
+Date: 3/17/2014
+Sprint Number: Sprint 4
+Name of the file: Star.cs
+Author of the file: Caleb Zaydak 
+Number of minutes spent: 10 
+
+Readability:
+	-Code is a little long because of comments 
+	-Very easy to read and follow logic 
+	-Intuitive variable names
+
+Hypothetical Change
+	-Rename classes so comments are unnecessary 

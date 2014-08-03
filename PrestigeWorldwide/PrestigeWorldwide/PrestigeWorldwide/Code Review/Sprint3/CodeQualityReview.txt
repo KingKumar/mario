@@ -1,0 +1,8 @@
+﻿Author: Dan Keiger
+Date: 3/3/2014
+Sprint 3
+EnemyFactory.cs
+Author of code: Robert Feeney
+Comments: Make sure your variables are in camelCase (X_Pos -> xPos). Also, it looks like you're passing in a state to the Create function,
+but be sure you are not using magic numbers. You pass in a state variable for Koopa, but not Goomba, also. 
+Hypothetical Change: Since Goomba is not passed a state, how could we easily maintain his state if other variables were to change?

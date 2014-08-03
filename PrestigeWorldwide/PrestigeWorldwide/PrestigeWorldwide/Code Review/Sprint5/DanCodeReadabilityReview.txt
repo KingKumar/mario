@@ -1,0 +1,8 @@
+﻿Author: Dan Keiger
+Date of Review: 4/2/2014
+File Being Reviewed: SoundManager.cs
+Author of File: Jamey Stock 
+Time spent on review: 10 Minutes
+
+Code is very readable at a glance and seems to be maintainable. It is designed to scale well for future implementations, too. Be careful when implementing
+the play main, however, as this doesn't look like it will repeat on every instance of a new game.

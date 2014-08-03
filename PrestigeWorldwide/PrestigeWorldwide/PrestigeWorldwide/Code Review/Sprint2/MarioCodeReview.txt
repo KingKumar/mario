@@ -1,0 +1,9 @@
+﻿Author: Dan Keiger
+2/7/2014
+Sprint 2
+Mario.cs
+Jamey Stock
+Comments: All in all, a clean and efficient class implementation. One thing that could be changed is the state switch from big Mario - 
+the variable could be a boolean like your other values, since it is essentially performing a boolean operation.
+Hypothetical Change: Right now, a call to small state Mario can not perform. If the code were to demand a small state Mario to begin world 1-1, 
+the program would be unable to handle the call.

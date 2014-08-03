@@ -1,0 +1,15 @@
+﻿Author: Caleb Zaydak
+Date: 3 March 2014
+Sprint: 3
+Name of file being reviewed: Level.cs
+Author of file being reviewed: Ronit Kumar
+Comments: The overall code quality is very good for level.cs. Here are specific comments:
+	- Code cohesion is very high as the functionality of the class focuses on the specific level.  It takes a large load of logic off of the game class.
+		The components within the Level.cs class all have to do with the current state of the level and mario within the level.
+		However, some of the load content logic was pushed onto the level.cs class, so that is less cohesive.
+	- Coupling is going to be naturally high for the level class as it needs all the sprite factories and other components to handle all of the functionality of a single level.
+	- There might be excessive commenting, such as "//Draw Blocks" and "//Draw Enemies" and other short comments like those.
+		Many of these comments can be removed because it is clear by reading the code what is happening. 
+	- Maybe create a new method to initialize the level, where it actually creates each object that is contained in the level and stores them in the lists
+Hypothetical Change: A change that could be made to the structure of this code is to push the loading content logic into the factories.
+	This change would be difficult to implement in our project as our factory classes do not have a reference to game and therfore cannot call Content.Load<Texture2D>()
